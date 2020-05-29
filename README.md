@@ -1,0 +1,1 @@
+This is LJ's first git project. Blah.
